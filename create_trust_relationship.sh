@@ -11,7 +11,7 @@
 ##! @TODO : create trust relationship between local host and remote host
 ##! @IN : $1 => remote hostname or ip
 ##! @IN : $2 => remote host username
-function createTrustRelationship(){
+function createTrustRelationship() {
     local l_remote_host="$1"
     local l_remote_user="$2"
     
