@@ -1,8 +1,7 @@
-[toc]
-
-# shell
+- [Shell Utilities](#shell-utilities)
+# Shell Utilities
 `Shell utility tools.`
 
-- **`create_trust_relationship`**
-  >create trust relationship between local host and remote host.
-  usage :  `./create_trust_relationship.sh [remote hostname or ip] [username]`
+- **`create_trust_relationship`**<span id="1"></span>
+  </br>create trust relationship between local host and remote host.
+  </br>usage :  ```./create_trust_relationship.sh [remote hostname or ip] [username]```
