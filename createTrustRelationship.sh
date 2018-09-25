@@ -1,7 +1,7 @@
 #! /bin/bash -
 ##! @File    : createTrustRelationship.sh
 ##! @Date    : 2016/04/22
-##! @Author  : chenguang02@baidu.com
+##! @Author  : yzchenguang02@126.com
 ##! @Version : 1.0
 ##! @Todo    : 
 ##! @FileOut : 
