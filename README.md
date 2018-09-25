@@ -1,5 +1,4 @@
-- [Shell Utilities](#shell-utilities)
-- [Uitilites](#1)
+
 - - [create_trust_relationship](#1)
 # Shell Utilities
 `Shell utility tools.`
