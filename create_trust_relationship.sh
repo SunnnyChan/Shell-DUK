@@ -43,5 +43,6 @@ function createTrustRelationship() {
     return 0
 }
 
+createTrustRelationship $1 $2
 
 ##! vim: ts=4 sw=4 sts=4 tw=100 ft=sh 
