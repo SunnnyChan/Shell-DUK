@@ -15,7 +15,7 @@ Shell utility tools, solve some practical scenario problems.
 Shell lib, improve Shell script development efficiency.
 
 ## *Content*
->***[Doc](#blog/README.md)***
+>***[Doc](blog/README.md)***
 
 >***[CMD](#cmd)***
 - [create_trust_relationship](#create_trust_relationship)  
