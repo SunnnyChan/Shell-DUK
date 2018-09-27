@@ -2,7 +2,7 @@
 ## mysql_monitor
 统计MySQL服务器状态，包括 查询、链接、Innodb行锁、SQL执行状态。
 
-> [mysql_monitor.sh]()
+> [mysql_monitor.sh](https://github.com/SunnnyChan/shell-utilities/tree/master/monitor/mysql_monitor)
 
 #### 用法及输出解析：
 
