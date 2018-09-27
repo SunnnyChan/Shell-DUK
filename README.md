@@ -12,15 +12,15 @@ Shell utility tools, solve some practical scenario problems.
 Shell lib, improve Shell script development efficiency.
 
 ## *Content*
->**[CMD](#CMD)**
+>**[CMD](#cmd)**
 - [create_trust_relationship](#create_trust_relationship)  
 
-> **[Utilities](#Utilities)**   
+> **[Utilities](#utilities)**   
 - [mysql_monitor](#mysql_monitor)
 
-> **[Library](#Library)**  
+> **[Library](#library)**  
 - [Log](#Log)
-- [INI Config](#INI-Config)
+- [INI Config](#ini-config)
 
 ## *DESCRIPTION*
 ### CMD
