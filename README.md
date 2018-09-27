@@ -12,7 +12,7 @@ Shell utility tools.
 
 **Library**  
 - [Log](#3)
-
+- [INI Config](#4)
 
 ## CMD
 These tools can be use as CMD.  
@@ -40,5 +40,8 @@ Get Code, then add bin directory to your $PATH.
 ## Library
 - [Log](lib/log/README.md) <span id="3"></span>
 > log lib for shell.
+
+- [INI Config](lib/config/ini/README.md) <span id="4"></span>
+> ini config file parse lib for shell.
 
 
