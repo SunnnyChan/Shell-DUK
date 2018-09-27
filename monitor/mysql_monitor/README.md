@@ -6,7 +6,7 @@
 
 #### 用法及输出解析：
 
-![](https://github.com/SunnnyChan/shell-utilities/blob/master/monitor/mysql_monitor/mysql_monitor_1.png)
+![](https://github.com/SunnnyChan/shell-utilities/blob/master/monitor/mysql_monitor/pic/mysql_monitor_1.png)
 
 上图打印的是从 mysqladmin extended-status 获取的一些关键信息，取样的时间为1s。  
 一开始的5列是事务和SQL请求相关的统计：  
@@ -21,7 +21,7 @@
 
 Total_Time 和 Total_waits 两列 mysqladmin extended-status  原来的统计是系统启动到现在的总数据，脚本变更为了过去1s的统计数据，更有意义一些。  
 
-![](https://github.com/SunnnyChan/shell-utilities/blob/master/monitor/mysql_monitor/mysql_monitor_2.png)
+![](https://github.com/SunnnyChan/shell-utilities/blob/master/monitor/mysql_monitor/pic/mysql_monitor_2.png)
 
 上图打印的是从 mysqladmin processlist 获取的查询请求执行状态信息，过滤了无状态的线程和主从同步线程。
 
