@@ -1,11 +1,11 @@
 
 # Shell Utilities
-`Shell utility tools.`
+Shell utility tools.
+  
+**CMD**
+- [create_trust_relationship](#1)  
 
-[CMD](https://github.com/SunnnyChan/shell-utilities/tree/master/cmd)
-- [create_trust_relationship](#1)
-
-[Monitor](https://github.com/SunnnyChan/shell-utilities/tree/master/monitor)
+**Monitor**
 - [mysql_monitor](#2)
 
 ## CMD
@@ -20,6 +20,6 @@
   ```
 ## Script
 ### Mointor
-- [mysql_monitor](https://github.com/SunnnyChan/shell-utilities/tree/master/monitor/mysql_monitor) <span id="2"></span>
+- [mysql_monitor](https://github.com/SunnnyChan/shell-utilities/blob/master/monitor/mysql_monitor/README.md) <span id="2"></span>
 > 统计MySQL服务器状态，包括 查询、链接、Innodb行锁、SQL执行状态。
 
