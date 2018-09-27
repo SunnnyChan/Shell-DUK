@@ -1,4 +1,4 @@
-## Log for Shell
+## Log library for Shell
 Shell 的 日志库。
 
 > [log.sh](log.sh)
