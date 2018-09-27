@@ -22,4 +22,3 @@ Shell utility tools.
 ### Mointor
 - [mysql_monitor](https://github.com/SunnnyChan/shell-utilities/blob/master/monitor/mysql_monitor/README.md) <span id="2"></span>
 > 统计MySQL服务器状态，包括 查询、链接、Innodb行锁、SQL执行状态。
-
