@@ -2,6 +2,9 @@
 # Shell Utilities
 
 ## *Synopsis*
+> ***Doc***  
+Shell programming study.  
+
 > ***CMD***  
 Shell command, improve working efficiency in Linux, MacOS.  
 
@@ -12,13 +15,15 @@ Shell utility tools, solve some practical scenario problems.
 Shell lib, improve Shell script development efficiency.
 
 ## *Content*
->**[CMD](#cmd)**
+>***[Doc](#blog/README.md)***
+
+>***[CMD](#cmd)***
 - [create_trust_relationship](#create_trust_relationship)  
 
-> **[Utilities](#utilities)**   
+>***[Utilities](#utilities)***   
 - [mysql_monitor](#mysql_monitor)
 
-> **[Library](#library)**  
+>***[Library](#library)***  
 - [Log](#Log)
 - [INI Config](#ini-config)
 
