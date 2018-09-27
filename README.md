@@ -5,8 +5,14 @@ Shell utility tools.
 **CMD**
 - [create_trust_relationship](#1)  
 
-**Monitor**
+**Utilities**   
+
+> Monitor
 - [mysql_monitor](#2)
+
+**Library**  
+- [Log](#3)
+
 
 ## CMD
 These tools can be use as CMD.  
@@ -31,6 +37,8 @@ Get Code, then add bin directory to your $PATH.
 - [mysql_monitor](utils/monitor/mysql_monitor/README.md) <span id="2"></span>
 > 统计MySQL服务器状态，包括 查询、链接、Innodb行锁、SQL执行状态。
 
-## Lib
-### Log
+## Library
+- [Log](lib/log/README.md) <span id="3"></span>
+> log lib for shell.
+
 
