@@ -1,11 +1,11 @@
 [^_^]:Define
-[homeDir]: https://github.com/SunnnyChan/shell-utilities/blob/master/utils/monitor/mysql_monitor
+[^HOME_DIR]:https://github.com/SunnnyChan/shell-utilities/blob/master/utils/monitor/mysql_monitor
 
 
 ## mysql_monitor
 统计MySQL服务器状态，包括 查询、链接、Innodb行锁、SQL执行状态。
 
-> [mysql_monitor.sh]([homeDir]/mysql_monitor.sh)
+> [mysql_monitor.sh]([^HOME_DIR]/mysql_monitor.sh)
 
 #### 用法及输出解析：
 
