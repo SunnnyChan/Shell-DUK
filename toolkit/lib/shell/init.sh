@@ -1,7 +1,7 @@
 #! /bin/bash -
 ##! @File    : init.sh
 ##! @Date    : 2016/04/22
-##! @Author  : chenguang02@baidu.com
+##! @Author  : sunnnychan@gmail.com
 ##! @Version : 1.0
 ##! @Todo    : 
 ##! @FileOut : 

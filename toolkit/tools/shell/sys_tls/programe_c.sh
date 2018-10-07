@@ -1,7 +1,7 @@
 #! /bin/bash -
 ##! @File    : programe_c.sh
 ##! @Date    : 2016/05/13
-##! @Author  : chenguang02@baidu.com
+##! @Author  : sunnnychan@gmail.com
 ##! @Version : 1.0
 ##! @Todo    : 
 ##! @FileOut : 

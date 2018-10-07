@@ -1,5 +1,5 @@
 #! /bin/sh -
-# by chenguang02@baidu.com
+# by sunnnychan@gmail.com
 
 ROOT="$(cd $(dirname ${BASH_SOURCE[0]});  pwd)"
 

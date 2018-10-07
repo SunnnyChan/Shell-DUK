@@ -1,6 +1,6 @@
 #! /bin/sh -
 # diffWithOnline : diff code between previous-online with current-online 
-# by chenguang02@baidu.com
+# by sunnnychan@gmail.com
 # version : v1.0.0
 # 2015/11/20
 

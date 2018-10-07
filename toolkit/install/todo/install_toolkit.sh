@@ -1,7 +1,7 @@
 #! /bin/bash -
 ##! @File    : install_toolkit.sh
 ##! @Date    : 2016/06/12
-##! @Author  : chenguang02@baidu.com
+##! @Author  : sunnnychan@gmail.com
 ##! @Version : 1.0
 ##! @Todo    : 
 ##! @FileOut : 
@@ -18,7 +18,7 @@ then
     exit 1
 fi
 
-TOOLKIT_REPO="http://toolkit.baidu.com"
+TOOLKIT_REPO="http://toolkit.sunnny.com"
 TOOLKIT_LOCATION="$TOOLKIT_REPO/toolkit"
 
 DEFAULT_TOOLKIT_ROOT="$HOME/.toolkit"

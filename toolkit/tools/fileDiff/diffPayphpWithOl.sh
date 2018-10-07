@@ -1,4 +1,4 @@
 #! /bin/sh -
-# by chenguang02@baidu.com
+# by sunnnychan@gmail.com
 
 sh script/diffWithOnline.sh "pay-php" $@

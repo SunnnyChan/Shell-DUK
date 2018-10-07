@@ -1,6 +1,6 @@
 #! /bin/bash -x
 # fileDiff : use for diff tow files or two directory
-# by chenguang02@baidu.com
+# by sunnnychan@gmail.com
 # version : v1.0.0
 # 2015/11/18
 

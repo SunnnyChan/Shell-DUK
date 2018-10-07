@@ -6,7 +6,7 @@
 #                           [-u|--user]
 #                           [-n|--host]
 #
-# by chenguang02@baidu.com
+# by sunnnychan@gmail.com
 # 2014/01/05
 
 
