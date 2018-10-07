@@ -1,0 +1,38 @@
+#! /bin/bash -
+##! @File    : gen_file_diff_report
+##! @Date    : 2016/07/02
+##! @Author  : chenguang02@baidu.com
+##! @Version : 1.0
+##! @Todo    : 
+##! @FileOut : 
+##! @Brief   : 
+
+PROGRAME="$(basename $0)"
+VERSION="v1.0.0"
+
+CURR_DIR=$(pwd)
+
+if [ $# -eq 3 ] 
+then
+    echo 'Error : parameters count must 2'
+    exit 1
+fi
+FILE_1=$1
+FILE_2=$2
+if ! [ -f "$1" ] || ! [ -d "$1" ]
+then
+    FILE_1="${CURR_DIR}/$1"
+fi
+if ! [ -f "$2" ] || ! [ -d "$2" ]
+then
+    FILE_2="${CURR_DIR}/$2"
+fi
+
+source "$(dirname $0)/../lib/frame/tls_shell.sh"
+FILE_DIFF_HOME="${TLS_ROOT}/fileDiff"
+FILE_DIFF_BIN="${FILE_DIFF_HOME}/fileDiff.sh"
+
+cd ${FILE_DIFF_HOME} && sh ${FILE_DIFF_BIN} ${FILE_1} ${FILE_2}
+
+
+##! vim: ts=4 sw=4 sts=4 tw=100 ft=sh 

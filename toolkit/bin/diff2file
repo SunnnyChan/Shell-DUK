@@ -1,0 +1,13 @@
+#! /bin/bash -
+##! @File    : diff2file
+##! @Date    : 2016/04/22
+##! @Author  : chenguang02@baidu.com
+##! @Version : 1.0
+##! @Todo    : 
+##! @FileOut : 
+
+OPTIONS="--line-numbers  --no-bold --show-all-spaces --recursive "
+
+icdiff ${OPTIONS} $@
+
+##! vim: ts=4 sw=4 sts=4 tw=100 ft=sh 

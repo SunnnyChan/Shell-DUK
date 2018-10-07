@@ -1,0 +1,17 @@
+#! /bin/bash -
+##!File    : create_trust
+##!Date    : 2016/01/05
+##!Author  : chenguang02@baidu.com
+##!Version : 1.0
+##!Todo    :
+
+PROGRAME="$(basename $0)"
+VERSION="v1.0.0"
+
+source "$(dirname $0)/../lib/frame/tls_shell.sh"
+source "${TLS_SHELL_ROOT}/sys_tls/createTrustRelationship.sh"
+
+# $1 hostname $2 user
+createTrustRelationship $1 $2
+
+#/* vim: set expandtab ts=4 sw=4 sts=4 tw=100: */

@@ -1,0 +1,26 @@
+create_trust  
+    - create ssh trust relationship between tow servers.
+
+icdiff/icdiff_dir/icdiff_gbk/icdiff_gbk_dir  
+    - diff tow files or directories.
+
+iopp
+    - display system IO information statistic.
+
+
+
+
+genScpPath
+    - 生成Scp命令行Copy参数
+
+grepSoPath
+    - 查找动态库文件位置
+
+backupFile
+    - 快速备份文件
+
+grepPhpClass
+    - 查找PHP类定义文件
+
+searchMarco
+    - 查找C语言宏定义

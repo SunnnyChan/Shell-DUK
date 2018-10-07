@@ -1,0 +1,241 @@
+[NOTICE]: logid[1464155109_31670]: 2016-05-25 13:45:09 script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464155109_31670]: 2016-05-25 13:45:10 /home/users/chenguang02/sunny/toolkit/tls/fileDiff/lib/diff.sh 271: Download diff report file. [dir1_dir2_31670_20160525_134509_diff.tar.gz] 
+[NOTICE]: logid[1464155315_8929]: 2016-05-25 13:48:35 script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464155315_8929]: 2016-05-25 13:48:36 /home/users/chenguang02/sunny/toolkit/tls/fileDiff/lib/diff.sh 272: Download diff report file. [dir1_dir2_8929_20160525_134835_diff.tar.gz] 
+[NOTICE]: logid[1464155693_27139]: 2016-05-25 13:54:53 script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464155693_27139]: 2016-05-25 13:54:53 /home/users/chenguang02/sunny/toolkit/tls/fileDiff/lib/diff.sh 273: Download diff report file. [dir1_dir2_27139_20160525_135453_diff.tar.gz] 
+[NOTICE]: logid[1464600866_30287]: 2016-05-30 17:34:26 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464600866_30287]: 2016-05-30 17:34:27 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 281: Download diff report file. [dir1_dir2_30287_20160530_173426_diff.tar.gz] 
+[NOTICE]: logid[1464607938_11592]: 2016-05-30 19:32:18 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464607938_11592]: 2016-05-30 19:32:18 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_11592_20160530_193218_diff.tar.gz] 
+[NOTICE]: logid[1464608122_20605]: 2016-05-30 19:35:22 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464608122_20605]: 2016-05-30 19:35:22 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_20605_20160530_193522_diff.tar.gz] 
+[NOTICE]: logid[1464769818_18634]: 2016-06-01 16:30:18 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464769818_18634]: 2016-06-01 16:30:18 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_18634_20160601_163018_diff.tar.gz] 
+[NOTICE]: logid[1464769854_1595]: 2016-06-01 16:30:54 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464769854_1595]: 2016-06-01 16:30:54 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_1595_20160601_163054_diff.tar.gz] 
+[NOTICE]: logid[1464770017_22255]: 2016-06-01 16:33:37 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464770017_22255]: 2016-06-01 16:33:37 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_22255_20160601_163337_diff.tar.gz] 
+[NOTICE]: logid[1464770180_31353]: 2016-06-01 16:36:20 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464770180_31353]: 2016-06-01 16:36:20 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_31353_20160601_163620_diff.tar.gz] 
+[NOTICE]: logid[1464771398_21221]: 2016-06-01 16:56:38 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464771398_21221]: 2016-06-01 16:56:38 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_21221_20160601_165638_diff.tar.gz] 
+[NOTICE]: logid[1464773895_22572]: 2016-06-01 17:38:15 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2 
+[TRACE]: logid[1464773895_22572]: 2016-06-01 17:38:15 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_22572_20160601_173815_diff.tar.gz] 
+[NOTICE]: logid[1467447725_19992]: 2016-07-02 16:22:05 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467447725_19992]: 2016-07-02 16:22:06 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_19992_20160702_162205_diff.tar.gz] 
+[NOTICE]: logid[1467449498_24188]: 2016-07-02 16:51:38 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467449498_24188]: 2016-07-02 16:51:38 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_24188_20160702_165138_diff.tar.gz] 
+[NOTICE]: logid[1467449817_10329]: 2016-07-02 16:56:57 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467449817_10329]: 2016-07-02 16:56:57 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_10329_20160702_165657_diff.tar.gz] 
+[NOTICE]: logid[1467450107_29022]: 2016-07-02 17:01:47 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450107_29022]: 2016-07-02 17:01:47 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_29022_20160702_170147_diff.tar.gz] 
+[NOTICE]: logid[1467450315_15012]: 2016-07-02 17:05:15 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450315_15012]: 2016-07-02 17:05:15 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_15012_20160702_170515_diff.tar.gz] 
+[NOTICE]: logid[1467450441_22051]: 2016-07-02 17:07:21 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450441_22051]: 2016-07-02 17:07:21 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_22051_20160702_170721_diff.tar.gz] 
+[NOTICE]: logid[1467450483_23807]: 2016-07-02 17:08:03 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450483_23807]: 2016-07-02 17:08:03 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_23807_20160702_170803_diff.tar.gz] 
+[NOTICE]: logid[1467450586_30773]: 2016-07-02 17:09:46 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450586_30773]: 2016-07-02 17:09:46 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_30773_20160702_170946_diff.tar.gz] 
+[NOTICE]: logid[1467450659_2762]: 2016-07-02 17:10:59 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450659_2762]: 2016-07-02 17:10:59 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_2762_20160702_171059_diff.tar.gz] 
+[NOTICE]: logid[1467450680_5860]: 2016-07-02 17:11:20 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450680_5860]: 2016-07-02 17:11:20 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_5860_20160702_171120_diff.tar.gz] 
+[NOTICE]: logid[1467450711_7300]: 2016-07-02 17:11:51 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir1 
+/home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/test/dir2 
+[TRACE]: logid[1467450711_7300]: 2016-07-02 17:11:52 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [dir1_dir2_7300_20160702_171151_diff.tar.gz] 
+[NOTICE]: logid[1467469159_30929]: 2016-07-02 22:19:19 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/env_ins/odp_walletcore/app/cashdesk 
+/home/users/chenguang02/env_ins/odp_walletcore/app/cashdesk_ol 
+[TRACE]: logid[1467469159_30929]: 2016-07-02 22:19:31 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [cashdesk_cashdesk_ol_30929_20160702_221919_diff.tar.gz] 
+[NOTICE]: logid[1467469209_10471]: 2016-07-02 22:20:09 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/env_ins/odp_walletcore/php/phplib 
+/home/users/chenguang02/env_ins/odp_walletcore/php/phplib_ol/ 
+[TRACE]: logid[1467469209_10471]: 2016-07-02 22:20:34 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [phplib_phplib_ol_10471_20160702_222009_diff.tar.gz] 
+[NOTICE]: logid[1469088419_21021]: 2016-07-21 16:06:59 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/work_place/pay-php/pre_cashdesk/library_1-0-83_BRANCH/ 
+/home/users/chenguang02/work_place/pay-php/pre_cashdesk/temp/library/ 
+[TRACE]: logid[1469088419_21021]: 2016-07-21 16:07:04 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [library_1-0-83_BRANCH_library_21021_20160721_160659_diff.tar.gz] 
+[NOTICE]: logid[1469088586_29434]: 2016-07-21 16:09:46 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/work_place/pay-php/pre_cashdesk/temp/library/ 
+/home/users/chenguang02/work_place/pay-php/pre_cashdesk/library_1-0-83_BRANCH/ 
+[TRACE]: logid[1469088586_29434]: 2016-07-21 16:09:50 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [library_library_1-0-83_BRANCH_29434_20160721_160946_diff.tar.gz] 
+[NOTICE]: logid[1469106133_19883]: 2016-07-21 21:02:13 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160721210007_13066 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160721210007_13066 
+[TRACE]: logid[1469106133_19883]: 2016-07-21 21:02:17 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160721210007_13066_code_trunk_20160721210007_13066_19883_20160721_210213_diff.tar.gz] 
+[NOTICE]: logid[1469106425_17040]: 2016-07-21 21:07:05 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160721210657_16822 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160721210657_16822 
+[TRACE]: logid[1469106425_17040]: 2016-07-21 21:07:08 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160721210657_16822_code_trunk_20160721210657_16822_17040_20160721_210705_diff.tar.gz] 
+[NOTICE]: logid[1469107148_9480]: 2016-07-21 21:19:08 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160721211843_7081 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160721211843_7081 
+[TRACE]: logid[1469107148_9480]: 2016-07-21 21:19:28 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160721211843_7081_code_trunk_20160721211843_7081_9480_20160721_211908_diff.tar.gz] 
+[NOTICE]: logid[1469107781_30498]: 2016-07-21 21:29:41 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160721212916_29806 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160721212916_29806 
+[TRACE]: logid[1469107781_30498]: 2016-07-21 21:30:01 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160721212916_29806_code_trunk_20160721212916_29806_30498_20160721_212941_diff.tar.gz] 
+[NOTICE]: logid[1469107866_9809]: 2016-07-21 21:31:06 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160721213047_7586 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160721213047_7586 
+[TRACE]: logid[1469107866_9809]: 2016-07-21 21:31:44 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160721213047_7586_code_trunk_20160721213047_7586_9809_20160721_213106_diff.tar.gz] 
+[NOTICE]: logid[1469158435_18487]: 2016-07-22 11:33:55 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160722113330_16192 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160722113330_16192 
+[TRACE]: logid[1469158435_18487]: 2016-07-22 11:34:15 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160722113330_16192_code_trunk_20160722113330_16192_18487_20160722_113355_diff.tar.gz] 
+[NOTICE]: logid[1469158477_26687]: 2016-07-22 11:34:37 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160722113420_26370 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160722113420_26370 
+[TRACE]: logid[1469158477_26687]: 2016-07-22 11:35:16 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160722113420_26370_code_trunk_20160722113420_26370_26687_20160722_113437_diff.tar.gz] 
+[NOTICE]: logid[1469416223_7300]: 2016-07-25 11:10:23 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160725111008_6754 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160725111008_6754 
+[TRACE]: logid[1469416223_7300]: 2016-07-25 11:11:02 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160725111008_6754_code_trunk_20160725111008_6754_7300_20160725_111023_diff.tar.gz] 
+[NOTICE]: logid[1469416332_25922]: 2016-07-25 11:12:12 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160725111155_23754 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160725111155_23754 
+[TRACE]: logid[1469416332_25922]: 2016-07-25 11:12:51 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160725111155_23754_code_trunk_20160725111155_23754_25922_20160725_111212_diff.tar.gz] 
+[NOTICE]: logid[1472528637_5675]: 2016-08-30 11:43:57 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830114349_5401 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830114349_5401 
+[TRACE]: logid[1472528637_5675]: 2016-08-30 11:44:03 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830114349_5401_code_trunk_20160830114349_5401_5675_20160830_114357_diff.tar.gz] 
+[NOTICE]: logid[1472528970_14130]: 2016-08-30 11:49:30 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830114926_13960 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830114926_13960 
+[TRACE]: logid[1472528970_14130]: 2016-08-30 11:49:58 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830114926_13960_code_trunk_20160830114926_13960_14130_20160830_114930_diff.tar.gz] 
+[NOTICE]: logid[1472529231_14347]: 2016-08-30 11:53:51 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830115345_14109 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830115345_14109 
+[NOTICE]: logid[1472529407_10775]: 2016-08-30 11:56:47 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830115631_10346 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830115631_10346 
+[TRACE]: logid[1472529407_10775]: 2016-08-30 11:57:19 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830115631_10346_code_trunk_20160830115631_10346_10775_20160830_115647_diff.tar.gz] 
+[NOTICE]: logid[1472529622_14691]: 2016-08-30 12:00:22 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830120010_14419 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830120010_14419 
+[TRACE]: logid[1472529622_14691]: 2016-08-30 12:00:54 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830120010_14419_code_trunk_20160830120010_14419_14691_20160830_120022_diff.tar.gz] 
+[NOTICE]: logid[1472530058_31423]: 2016-08-30 12:07:38 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830120731_31050 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830120731_31050 
+[NOTICE]: logid[1472530115_13461]: 2016-08-30 12:08:35 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830120822_12896 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830120822_12896 
+[TRACE]: logid[1472530115_13461]: 2016-08-30 12:08:42 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830120822_12896_code_trunk_20160830120822_12896_13461_20160830_120835_diff.tar.gz] 
+[NOTICE]: logid[1472537859_17978]: 2016-08-30 14:17:39 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830141727_17605 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830141727_17605 
+[TRACE]: logid[1472537859_17978]: 2016-08-30 14:18:11 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830141727_17605_code_trunk_20160830141727_17605_17978_20160830_141739_diff.tar.gz] 
+[NOTICE]: logid[1472538074_30359]: 2016-08-30 14:21:14 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830142058_25981 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830142058_25981 
+[TRACE]: logid[1472538074_30359]: 2016-08-30 14:21:46 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830142058_25981_code_trunk_20160830142058_25981_30359_20160830_142114_diff.tar.gz] 
+[NOTICE]: logid[1472538204_2139]: 2016-08-30 14:23:24 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830142311_1798 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830142311_1798 
+[TRACE]: logid[1472538204_2139]: 2016-08-30 14:24:00 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830142311_1798_code_trunk_20160830142311_1798_2139_20160830_142324_diff.tar.gz] 
+[NOTICE]: logid[1472542940_32610]: 2016-08-30 15:42:20 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830154155_30416 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830154155_30416 
+[TRACE]: logid[1472542940_32610]: 2016-08-30 15:42:39 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830154155_30416_code_trunk_20160830154155_30416_32610_20160830_154220_diff.tar.gz] 
+[NOTICE]: logid[1472543064_16796]: 2016-08-30 15:44:24 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830154406_16312 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830154406_16312 
+[NOTICE]: logid[1472543418_9887]: 2016-08-30 15:50:18 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830154953_7670 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830154953_7670 
+[TRACE]: logid[1472543418_9887]: 2016-08-30 15:50:38 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830154953_7670_code_trunk_20160830154953_7670_9887_20160830_155018_diff.tar.gz] 
+[NOTICE]: logid[1472543543_8206]: 2016-08-30 15:52:23 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830155210_7911 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830155210_7911 
+[NOTICE]: logid[1472543607_31233]: 2016-08-30 15:53:27 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830155313_30881 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830155313_30881 
+[TRACE]: logid[1472543607_31233]: 2016-08-30 15:54:12 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830155313_30881_code_trunk_20160830155313_30881_31233_20160830_155327_diff.tar.gz] 
+[NOTICE]: logid[1472546617_4359]: 2016-08-30 16:43:37 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830164314_3020 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830164314_3020 
+[TRACE]: logid[1472546617_4359]: 2016-08-30 16:43:58 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830164314_3020_code_trunk_20160830164314_3020_4359_20160830_164337_diff.tar.gz] 
+[NOTICE]: logid[1472559828_26184]: 2016-08-30 20:23:48 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830202335_25768 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830202335_25768 
+[NOTICE]: logid[1472569080_7455]: 2016-08-30 22:58:00 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160830225745_7126 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160830225745_7126 
+[TRACE]: logid[1472569080_7455]: 2016-08-30 22:58:46 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160830225745_7126_code_trunk_20160830225745_7126_7455_20160830_225800_diff.tar.gz] 
+[NOTICE]: logid[1474265833_7927]: 2016-09-19 14:17:13 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160919141655_7371 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160919141655_7371 
+[NOTICE]: logid[1474265909_11693]: 2016-09-19 14:18:29 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160919141814_11279 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160919141814_11279 
+[TRACE]: logid[1474265909_11693]: 2016-09-19 14:18:48 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160919141814_11279_code_trunk_20160919141814_11279_11693_20160919_141829_diff.tar.gz] 
+[NOTICE]: logid[1474266562_6570]: 2016-09-19 14:29:22 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160919142900_6120 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160919142900_6120 
+[NOTICE]: logid[1474267714_10010]: 2016-09-19 14:48:34 script/fileDiff.sh 92: diff two directory. 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_20160919144812_9517 
+/home/users/chenguang02/sunny/manageEnv/tmp/code_trunk_20160919144813_9517 
+[TRACE]: logid[1474267714_10010]: 2016-09-19 14:49:26 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 277: Download diff report file. [code_20160919144812_9517_code_trunk_20160919144813_9517_10010_20160919_144834_diff.tar.gz] 
+[NOTICE]: logid[1474269632_28317]: 2016-09-19 15:20:32 script/fileDiff.sh 92: diff two directory. 
+test/dir1 
+test/dir2/ 
+[TRACE]: logid[1474269632_28317]: 2016-09-19 15:20:32 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 273: Download diff report file. [dir1_dir2_28317_20160919_152032_diff.tar.gz] 
+[NOTICE]: logid[1474269686_31648]: 2016-09-19 15:21:26 script/fileDiff.sh 92: diff two directory. 
+test/dir2 
+test/dir1/ 
+[TRACE]: logid[1474269686_31648]: 2016-09-19 15:21:26 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 273: Download diff report file. [dir2_dir1_31648_20160919_152126_diff.tar.gz] 
+[NOTICE]: logid[1474269835_7982]: 2016-09-19 15:23:55 script/fileDiff.sh 92: diff two directory. 
+test/dir2 
+test/dir1/ 
+[TRACE]: logid[1474269835_7982]: 2016-09-19 15:23:55 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 275: Download diff report file. [dir2_dir1_7982_20160919_152355_diff.tar.gz] 
+[NOTICE]: logid[1474270018_20764]: 2016-09-19 15:26:58 script/fileDiff.sh 92: diff two directory. 
+test/dir2 
+test/dir1/ 
+[TRACE]: logid[1474270018_20764]: 2016-09-19 15:26:59 /home/users/chenguang02/sunny/sunnyspace/toolkit/tools/fileDiff/lib/diff.sh 275: Download diff report file. [dir2_dir1_20764_20160919_152658_diff.tar.gz] 

@@ -1,0 +1,28 @@
+#! /bin/bash -
+##! @File    : goaccess.sh
+##! @Date    : 2016/05/30
+##! @Author  : chenguang02@baidu.com
+##! @Version : 1.0
+##! @Todo    : 
+##! @FileOut : 
+##! @Brief   : 
+
+export LC_ALL=en_US
+
+PROGRAME="$(basename $0)"
+VERSION="v1.0.0"
+
+source "$(dirname $0)/../lib/frame/tls_shell.sh"
+LIBSO_LIST="${LIB_ROOT}/libso/libGeoIP.so.1.4.8"
+GOACCESS_ROOT="${TLS_ROOT}/sys_monitor/log/goaccess"
+GOACCESS_BIN="${GOACCESS_ROOT}/goaccess"
+GOACCESS_DB="${GOACCESS_ROOT}/GeoIP.dat"
+GOACCESS_CONF="${GOACCESS_ROOT}/goaccess.conf"
+
+#options
+OPTIONS=" --config-file ${GOACCESS_CONF} --geoip-database ${GOACCESS_DB} "
+
+#run
+LD_PRELOAD=${LIBSO_LIST} ${GOACCESS_BIN} ${OPTIONS} $@ 
+
+##! vim: ts=4 sw=4 sts=4 tw=100 ft=sh 
