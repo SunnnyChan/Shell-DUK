@@ -2,14 +2,12 @@
 # Shell Utilities
 
 ## *Synopsis*
-> ***Doc***  
-Shell programming study.  
 
 > ***CMD***  
 Shell command, improve working efficiency in Linux, MacOS.  
 
 > ***Utilities***  
-Shell utility tools, solve some practical scenario problems.
+Shell script tools, solve some practical scenario problems.
 
 > ***Library***  
 Shell lib, improve Shell script development efficiency.
@@ -24,12 +22,6 @@ Shell lib, improve Shell script development efficiency.
 - [INI Config](#ini-config)
 
 ## *DESCRIPTION*
-### Library
-- ##### [Log](lib/log/README.md)
-> log lib for shell.
-
-- ##### [INI Config](lib/config/ini/README.md)
-> ini config file parse lib for shell.
 
 ### CMD
 These tools can be use as CMD.  
