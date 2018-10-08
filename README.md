@@ -13,13 +13,8 @@ Shell script tools, solve some practical scenario problems.
 Shell lib, improve Shell script development efficiency.
 
 ## *Content*
->***[Utilities](#utilities)***
 - [create_trust_relationship](#create_trust_relationship)  
 - [mysql_monitor](#mysql_monitor)
-
->***[Library](#library)***  
-- [Log](#Log)
-- [INI Config](#ini-config)
 
 ## *DESCRIPTION*
 
