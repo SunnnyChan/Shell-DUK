@@ -1,4 +1,4 @@
-
+```md
 
 NetHogs 打破了网络流量按协议或子网进行统计的惯例，它以进程来分组。所以，当网络流量猛增时，你可以使用 NetHogs 查看是由哪个进程造成的。
 
@@ -14,4 +14,5 @@ usage: nethogs [-V] [-b] [-d seconds] [-t] [-p] [device [device [device ...]]]
 当 nethogs 运行时, 按:  
  q: 退出  
  m: 总数和当前使用情况模式之间切换  
+```
 

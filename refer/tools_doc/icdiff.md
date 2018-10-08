@@ -1,3 +1,4 @@
+```md
 https://github.com/jeffkaufman/icdiff
 http://www.jefftk.com/icdiff
 
@@ -35,3 +36,4 @@ Options:
                         how many lines of context to print; can't be combined
                         with --whole-file
   --whole-file          show the whole file instead of just changed lines and
+```
