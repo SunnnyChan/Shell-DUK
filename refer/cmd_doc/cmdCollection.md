@@ -1,3 +1,4 @@
+```md
 file {
     file ouput {
         cat - concatenate files and print on the standard output
@@ -182,3 +183,4 @@ C language {
     ldd - print shared library dependencies
     strace - trace system calls and signals
 }
+```

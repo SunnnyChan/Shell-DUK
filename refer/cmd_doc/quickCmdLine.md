@@ -1,3 +1,4 @@
+```md
 text {
     # output with number line
     cat -n file.t 或 nl file.t
@@ -36,4 +37,5 @@ code {
     #将读取到的元素存入数组
     read -a
 }
+```
 
