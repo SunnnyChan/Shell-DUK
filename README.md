@@ -48,7 +48,7 @@ Get Code, then add bin directory to your $PATH.
   ```
 ### Utilities
 #### Mointor
-- ##### [mysql_monitor](utils/monitor/mysql_monitor/README.md) 
+- ##### [mysql_monitor](tools/sys_monitor/mysql_monitor/README.md) 
 > 统计MySQL服务器状态，包括 查询、链接、Innodb行锁、SQL执行状态。
 
 ### Library
