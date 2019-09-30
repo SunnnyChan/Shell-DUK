@@ -1,11 +1,12 @@
 
-# SH-DUK (Shell Development and Utility Kits)
+# 👉 SH-DUK (Shell Development and Utility Kits)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-## Shell command, improve working efficiency in Linux, MacOS
+## ✨ Shell command, improve working efficiency in Linux, MacOS
 Shell common tools for rapid application.  
 Include basic build-in CMD, script CMD and script for practical scenario problems.
 
-### *Install* 
+### 🔰 *Install*  
 ```md
 for bash environment :
 ```
@@ -19,7 +20,7 @@ for zsh environment :
 sh install/install_to_zsh_sys.sh 
 ```
 
-### *DESCRIPTION*
+### 📚 *DESCRIPTION*
 
 #### [Basic build-in CMD](refer/cmd_doc/cmdCollection.md)
 #### [Quick Command Line](refer/cmd_doc/quickCmdLine.md)
@@ -35,15 +36,15 @@ create trust relationship between local host and remote host.
       usage :   
       create_trust_relationship [remote hostname or ip] [username]
 
-## Shell script tools, solve practical scenario problems
+## 🐚 Shell script tools, solve practical scenario problems
 #### [mysql_monitor - 统计MySQL服务器状态](tools/sys_monitor/mysql_monitor/README.md)   
 #### [third-party tools integrate](refer/tools_doc/README.md)
 ##### [todo](refer/todo/tools_collection.md)
 
-## Shell Script Development
+## 💖 Shell Script Development
 ### [Framework - Improve Shell script development efficiency](refer/dev/DevFramework.md) 
 
 ### Library
 ####  [Log](lib/log)
-####  [INI Config](ib/config/ini)
+####  [INI Config](lib/config/ini)
 
