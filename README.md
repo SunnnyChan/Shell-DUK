@@ -1,5 +1,5 @@
 
-# 👉 SH-DUK (Shell Development and Utility Kits)
+# 👉 Shell-DUK (Shell Development and Utility Kits)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## ✨ Shell command, improve working efficiency in Linux, MacOS
